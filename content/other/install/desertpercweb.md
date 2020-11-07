@@ -5,7 +5,7 @@ description = "a playable found object installation in the desert"
 
 [extra]
 author = "Derek Kwan"
-thumbnail = "/other/install/thumbs/desertpercwebsquare.jpg"
+thumbnail = "/thumbs/other/install/desertpercwebsquare.jpg"
 keywords = "desert, percussion, web, playable, installation"
 +++
 
