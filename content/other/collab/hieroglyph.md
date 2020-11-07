@@ -5,7 +5,7 @@ date = 2020-08-21
 
 [extra]
 author = "Derek Kwan, Art-a-Hack Team Razvan"
-thumbnail = "/other/collab/thumbs/hierosq.png"
+thumbnail = "/thumbs/other/collab/hierosq.png"
 keywords = "dance, biometric, emotibit, artahack, dancedemic, pure data, touch designer, ableton, poetry"
 +++
 
@@ -27,15 +27,15 @@ For this edition of Art-a-Hack, Ellen Pearlman served as our director while Kati
 
 <iframe src="https://player.vimeo.com/video/468289209" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-![hiero-sshot](/other/collab/images/hiero-sshot.png) \
+![hiero-sshot](/images/other/collab/hiero-sshot.png) \
 
 Screenshot from the live performance
 
-![hiero-pdpatch](/other/collab/images/hiero-pdpatch.png) \
+![hiero-pdpatch](/images/other/collab/hiero-pdpatch.png) \
 
 Performance patch for "Hieroglyph"
 
-![hiero-sshot](/other/collab/images/hiero-sshot.png) \
+![hiero-pdplayer](/images/other/collab/hiero-pdplayer.png) \
 
 Video/data player I made in Pure Data to replay video with biometric data (Can be found [here](https://github.com/derekxkwan/pd-dancedemic-playergithub.com/derekxkwan/pd-dancedemic-player)
 

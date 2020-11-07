@@ -13,4 +13,4 @@ I later adapted the piece as an installation hosted on mobile devices called [so
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3688676307/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://derekxkwan.bandcamp.com/track/airportmusic">airportmusic by Derek Kwan</a></iframe>
 	
-![airportmusic-pd](/music/images/airportmusicdep-pd.png) \
+![airportmusic-pd](/images/music/airportmusicdep-pd.png) \

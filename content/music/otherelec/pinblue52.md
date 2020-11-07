@@ -11,4 +11,4 @@ Near-half-hour, ambient, electronic composition realized in Pure Data based on a
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=374593208/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://derekxkwan.bandcamp.com/track/pinblue-52">pinblue 52 by Derek Kwan</a></iframe>
 	
-![pinblue-pd](/music/images/pinblue-pdsm.jpg) \
+![pinblue-pd](/images/music/pinblue-pdsm.jpg) \

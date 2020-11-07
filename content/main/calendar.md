@@ -1,6 +1,6 @@
 +++
 title = "calendar"
-path = "calendar.html"
+path = "calendar"
 template = "page.html"
 +++
 

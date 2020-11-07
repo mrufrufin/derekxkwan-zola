@@ -5,7 +5,7 @@ description = "a glitched ode to Bombay Beach"
 
 [extra]
 author = "Derek Kwan"
-thumbnail = "/other/visual/thumbs/bombaybeach-square.png"
+thumbnail = "/thumbs/other/visual/bombaybeach-square.png"
 keywords = "Bombay Beach, processing, glsl"
 +++
 

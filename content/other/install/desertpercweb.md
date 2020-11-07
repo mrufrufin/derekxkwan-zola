@@ -11,4 +11,4 @@ keywords = "desert, percussion, web, playable, installation"
 
  A collection of interesting sounding objects I found in Bombay Beach, CA I strung up on a structure with twine as a playable percussion web during my time at [brahman.ai](https://brahman.ai/). 
  
-![desertpercweb](/other/install/images/desertpercweb.jpg) \
+![desertpercweb](/images/other/install/desertpercweb.jpg) \
