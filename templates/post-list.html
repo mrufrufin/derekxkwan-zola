@@ -1,0 +1,29 @@
+{% macro thumblist(sect) %}
+<h2>{{sect.title}}</h2>
+<div class="thumblist">
+<ul>
+{% for page in sect.pages %}
+<li>
+<a href ="{{page.path | safe }}" title="{{page.description}}">
+    <figure>
+        <img src="{{page.extra.thumbnail | safe }}" class="imgthumb">
+        <figcaption class="thumbtext">{{page.title}} ({{page.year}})</figcaption>
+</a>
+</li>
+{% endfor %}
+</ul>
+</div>
+{% endmacro thumblist %}
+
+{% macro postlist(sect) %}
+<div class=postlist">
+<h2>{{sect.title}}</h2>
+<ul>
+{% for page in sect.pages %}
+<li>
+    <a href="{{ page.path | safe }}" title='{{ page.title | safe }}'>{{ page.title | safe }} ({{ page.year }})</a> - {{ page.description }} 
+</li>
+{% endfor %}
+</ul>
+</div>
+{% endmacro postlist %}

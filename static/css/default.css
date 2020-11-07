@@ -1,0 +1,175 @@
+
+html, body {
+    font-family:"Courier New", "Courier", sans-serif;
+    color:black;   
+    
+    font-size: 1em;
+    margin: auto 10px auto 10px;
+    background-color:#e2e9ee;
+    background-image:url(/images/noiseGendblue.png);
+    background-size:auto;
+    background-repeat:repeat;
+    background-attachment: fixed;
+}
+
+a
+{
+    color: #cc3377;
+}
+a:hover
+{
+    color:#11aa55;
+    text-decoration: none;
+}
+.clickImg
+{
+    height:20px;
+}
+div#header {
+    border-bottom: 2px solid white;
+    margin-bottom: 30px;
+    padding: 12px 0px 12px 0px;
+}
+
+#pagetitle
+{
+    font-size:2.5em;
+
+    font-weight: bold;
+}
+
+div#logo a {
+    color: gray;
+    float: left;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+div#header #navigation {
+    text-align: right;
+}
+
+div#header #navigation a {
+    color: gray;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 12px;
+    text-decoration: none;
+}
+
+div#footer {
+    border-top: solid 2px black;
+    color: #555;
+    font-size: 1em;
+    margin-top: 30px;
+    padding: 12px 0px 12px 0px;
+    text-align: right;
+}
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.85em;
+
+}
+
+h3 {
+    font-size: 1.65em;
+}
+h1,h2,h3,h4,h5,h6,h7,h8,h9
+{
+    font-style:italic;
+}
+
+.navbar
+{
+
+    padding: 0px;
+    margin: 0;
+    vertical-align: bottom;
+}
+.navbar,.navbar-brand
+{
+
+    color: white;
+    font-size:1.5em;
+    
+}
+
+.navbar-brand
+{
+    font-weight:bold;
+    padding: 0;
+
+    margin: 0 15;
+
+}
+
+.navbar-brand:hover
+{
+    color: #ffaa55;
+
+}
+.nav-item a:hover
+{
+    color: #ffaa55;
+}
+	      
+div.info {
+    color: #555;
+    font-size: 1em;
+    font-style: italic;
+}
+
+img {
+    max-width: 100%
+    }
+
+
+.imgthumb{
+    padding: auto;
+    margin: auto;
+}
+
+
+figcaption
+{
+
+    display: table-caption;
+    caption-side: bottom;
+   
+   
+}
+
+.thumblist ul
+{
+    list-style:none;
+}
+
+.thumblist ul li
+{
+    display:inline-block;
+    margin:auto;
+
+    max-width:20%;
+    vertical-align:top;
+    padding:auto;
+}
+
+hr
+{
+    border-top: solid 2px black;
+
+}
+
+@media screen and (max-width: 800px) {
+
+    .thumblist ul li
+    {
+	max-width:40%;
+    }
+}

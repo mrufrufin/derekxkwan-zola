@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% import "post-list.html" as postlist %}
+
+{% block pgtitle %}{{ section.title }}{% endblock pgtitle %}
+{% block title %}{{ section.title }}{% endblock title %}
+
+{% block content %}
+{% set chamber_section = get_section(path = "music/chamber/_index.md") %}
+{% set solo_section = get_section(path = "music/solo/_index.md") %}
+{% set indeterminate_section = get_section(path = "music/indeterminate/_index.md") %}
+{% set livecoding_section = get_section(path = "music/livecoding/_index.md") %}
+{% set otherelec_section = get_section(path = "music/otherelec/_index.md") %}
+{% set collab_section = get_section(path = "music/collab/_index.md") %}
+{% set realizations_section = get_section(path = "music/realizations/_index.md") %}
+{{ postlist::postlist(sect=livecoding_section) }}
+{{ postlist::postlist(sect=solo_section) }}
+{{ postlist::postlist(sect=chamber_section) }}
+{{ postlist::postlist(sect=otherelec_section) }}
+{{ postlist::postlist(sect=indeterminate_section) }}
+{{ postlist::postlist(sect=realizations_section) }}
+{{ postlist::postlist(sect=collab_section) }}
+{% endblock %}
