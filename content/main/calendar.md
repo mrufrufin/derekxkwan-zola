@@ -6,6 +6,11 @@ template = "page.html"
 
 # 2020
 
+## Decemeber 20, 2020 | Caider at Tidal Cycles Winter Solstice Marathon
+Twitch/YouTube
+
++ 20-minute set with live visuals from Cai.
+
 ## October 28, 2020 | Toplap Israel Emergent Behavior
 Toplap Israel live stream
 
