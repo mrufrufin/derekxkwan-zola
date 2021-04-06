@@ -3,6 +3,19 @@ title = "calendar"
 path = "calendar"
 template = "page.html"
 +++
+# 2021
+
+## March 14, 2021 | McGill Music Graduate Symposium (34th Annual)
+virtual
+
++ recorded presentation of Karaoke of Dreams wiht Sophia Sun and Sofy Yuditskaya
++ 1:15PM - 3:15 PM EST
++ https://mcgillmusicsymposium.wordpress.com/contact-us/
+
+## March 5, 2021 | Mars College Live Coding
+Bombay Beach/Twitch
+
++ live streamed Tidal Cycles live coding set at 6:50 PM PST
 
 # 2020
 
