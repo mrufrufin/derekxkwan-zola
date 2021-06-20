@@ -5,7 +5,7 @@ description = "a glitched ode to Bombay Beach"
 
 [extra]
 author = "Derek Kwan"
-thumbnail = "/thumbs/other/visual/*bombaybeach*-square.png"
+thumbnail = "/thumbs/other/visual/bombaybeach-square.png"
 keywords = "Bombay Beach, processing, glsl"
 +++
 <iframe src="https://player.vimeo.com/video/423455116" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

@@ -5,10 +5,18 @@ template = "page.html"
 +++
 # 2021
 
+## June 15-16, 2021 | New Interfaces for Musical Expression 2021
+virtual (NYU Shanghai)
+
++ question and answer session alongside Anne Sophie Andersen on our 3d visualization work of Grisey's talea using web technology
++ 11PM (June 15)/11 AM (June 16) PST
++ http://www.nime2021.org
+
+
 ## March 14, 2021 | McGill Music Graduate Symposium (34th Annual)
 virtual
 
-+ recorded presentation of Karaoke of Dreams wiht Sophia Sun and Sofy Yuditskaya
++ recorded presentation of Karaoke of Dreams with Sophia Sun and Sofy Yuditskaya
 + 1:15PM - 3:15 PM EST
 + https://mcgillmusicsymposium.wordpress.com/contact-us/
 
