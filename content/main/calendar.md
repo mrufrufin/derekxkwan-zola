@@ -6,7 +6,7 @@ template = "page.html"
 # 2022
 
 ## February 28 - March 28, 2022 | Virginia Center for the Creative Arts
-Amherst, CA
+Amherst, VA
 
 + composer residency
 + https://www.vcca.com
