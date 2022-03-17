@@ -3,6 +3,15 @@ title = "calendar"
 path = "calendar"
 template = "page.html"
 +++
+# 2022
+
+## February 28 - March28, 2022 | Virginia Center for the Creative Arts
+Amherst, CA
+
++ composer residency
++ https://www.vcca.com
+
+
 # 2021
 
 ## June 15-16, 2021 | New Interfaces for Musical Expression 2021
