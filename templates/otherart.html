@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% import "post-list.html" as postlist %}
+
+{% block pgtitle %}{{ section.title }}{% endblock pgtitle %}
+{% block title %}{{ section.title }}{% endblock title %}
+
+{% block content %}
+{% set collab_section = get_section(path = "otherart/collab/_index.md") %}
+{% set install_section = get_section(path = "otherart/install/_index.md") %}
+{% set visual_section = get_section(path = "otherart/visual/_index.md") %}
+{{ postlist::thumblist(sect=visual_section) }}
+{{ postlist::thumblist(sect=install_section) }}
+{{ postlist::thumblist(sect=collab_section) }}
+{% endblock %}
