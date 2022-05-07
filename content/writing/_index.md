@@ -1,4 +1,4 @@
 +++
 title = "Writing"
-sort_by = "date"
+template = "writing.html"
 +++

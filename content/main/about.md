@@ -12,4 +12,4 @@ Derek Kwan creates things in any and all combinations of computers, music, and a
 [cv](https://github.com/derekxkwan/cv)
 
 ## contact
-derek (dot) x (dot) kwan (at) gmail (dot) com
+e-mail: derek.x.kwan@gmail.com

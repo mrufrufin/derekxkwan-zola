@@ -4,6 +4,7 @@
         <title>derek kwan | {% block pgtitle %}{% endblock pgtitle %}</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="/css/nav.css" />
         <link rel="stylesheet" href="/css/bootstrap/bootstrap.css" />
 	<link rel="stylesheet" href="/css/default.css" />
 	<script src="/js/jquery.min.js"></script>
@@ -25,20 +26,26 @@
 		<a class="nav-link" href="/about">about</a>
 	    </li>
 	    <li class="nav-item">
-		<a class="nav-link" href="/calendar">calendar</a>
-	    </li>
-	    <li class="nav-item">
 		<a class="nav-link" href="/music/">music</a>
 	    </li>
+
 	    <li class="nav-item">
-		<a class="nav-link" href="/other/">otherproj</a>
+		<a class="nav-link" href="/otherart/">otherart</a>
 	    </li>
         <li class="nav-item">
-		<a class="nav-link" href="/misc/">misc</a>
+		<a class="nav-link" href="/writing/">writing</a>
 	    </li>
 	    <li class="nav-item">
 		<a class="nav-link" target="_blank" href="https://github.com/derekxkwan/">code</a>
 	    </li>
+        <li class="nav-item">
+		<a class="nav-link" href="/calendar/">calendar</a>
+	    </li>
+
+        <li class="nav-item">
+		<a class="nav-link" href="/links/">links</a>
+	    </li>
+
 	</ul>
     </div>
 
@@ -47,16 +54,6 @@
 	<img src="/images/noiseGendblue.png" style="display:none;" />
     <h1> {% block title %}{% endblock title %} </h1>
     {% block content %}{% endblock content %}
-    <div id="footer">
-        <a href="https://github.com/derekxkwan" target="_blank"><img class="noBorder clickImg" src="/images/buttons/gitThemed.svg" /></a>
-        <a href="https://derekxkwan.bandcamp.com/music" target="_blank"><img class="noBorder clickImg" src="/images/buttons/bcThemed.svg" /></a>
-        <a href="https://soundcloud.com/dxkzh" target="_blank"><img class="noBorder clickImg" src="/images/buttons/scThemed.svg" /></a>
-        <a href="https://www.instagram.com/dxkzh/" target="_blank" ><img class="noBorder clickImg" src="/images/buttons/instaThemed.svg" /></a>
-        <a href="http://twitter.com/derekxkwan" target="_blank"><img class="noBorder clickImg" src="/images/buttons/twitThemed.svg" /></a>
-        <a href="https://post.lurk.org/@mrufrufin" target="_blank"><img class="noBorder clickImg" src="/images/buttons/mastodonThemed.svg" /></a>
-        <a href="https://vimeo.com/user57974280/videos" target="_blank"><img class="noBorder clickImg" src="/images/buttons/vimeoThemed.svg" /></a>
-        <a href="https://puredata.info/Members/derekxkwan" target="_blank"><img class="noBorder clickImg" src="/images/buttons/pdThemed.svg" /></a>
-        </div>
-    </body>
+   </body>
 </html>
 
